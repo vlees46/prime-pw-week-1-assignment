@@ -15,7 +15,8 @@
 # 7 - Run 'git --version' in your terminal. What is the output?
       version 2.33.0
 # 8 - Why would you run the command 'git status'?
-
+      to see what files have been modified and will need to be comitted
 # 9 - What does the command 'git add .' do?
-
+       this is staging the commit and will add all files from the current folder
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+       git push -u orgin master
