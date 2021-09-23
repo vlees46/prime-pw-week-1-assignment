@@ -20,6 +20,7 @@ p {
 /* Put a border around your image */
 img {
   border: 5px solid #7FBF3F;
+  width: 15%;
 }
 
 /* Change the font-family of your list */
